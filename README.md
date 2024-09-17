@@ -1,4 +1,4 @@
-Welcome to Mobile Tool!
+# Welcome to Mobile Tool!
 
 Mobile Tool is a tool designed to automate the configuration of Android mobile devices for security audits. Additionally, functions that are highly useful during audits are being implemented, with plans for continued growth.
 
