@@ -36,11 +36,11 @@ python MobileT.py
 
 # Features
 
-1. Android Device Configuration
-   1.1 Insert Burp Suite certificate
-   1.2 Insert Frida server and client
-2. Static Analysis of APK or IPA
-3. Detect Application Technology
+1. Android Device Configuration.
+- Insert Burp Suite certificate.
+- Insert frida server and client.
+2. Static Analysis of APK.
+3. Detect Application Technology.
 
 ## Android Device Configuration
 
